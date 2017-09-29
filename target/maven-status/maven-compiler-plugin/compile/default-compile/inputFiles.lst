@@ -1,0 +1,17 @@
+/home/zara/Devel/conferencetrackmanager/src/main/java/handlers/PlainTextInputHandler.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/exceptions/HandlerNotFoundException.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/models/TrackSession.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/handlers/PlainTextOutputHandler.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/models/ConferenceTrack.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/Program.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/utils/TalkUtil.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/exceptions/InvalidDurationTalkException.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/handlers/InputHandler.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/exceptions/InvalidTitleTalkException.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/handlers/ConsoleOutputHandler.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/config/Constants.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/services/ConferenceManager.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/exceptions/InvalidTopicList.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/models/Talk.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/models/NonTrackSession.java
+/home/zara/Devel/conferencetrackmanager/src/main/java/handlers/OutputHandler.java
